@@ -2,4 +2,4 @@
 This repository contains algorithms and data structures that I code in c#.
 
 
- Big O -> O()            <a href="https://www.bigocheatsheet.com/">BigOcheatsheet</a>
+ Big O -> O()            <a href="https://www.bigocheatsheet.com/" target="_blank">BigOcheatsheet</a>
